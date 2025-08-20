@@ -1,0 +1,1073 @@
+[
+  {
+    "id": 1,
+    "name": "Казань",
+    "popular": true,
+    "now": {
+      "datetime": "2025-08-25 00:00:00",
+      "daytime": "Ночь",
+      "temp": 34,
+      "wind": 1,
+      "humidity": 85,
+      "icon": "cloudy.png",
+      "description": "Облачно"
+    },
+    "dayForecast": [
+      {
+        "datetime": "2025-08-25 00:00:00",
+        "daytime": "Ночь",
+        "temp": 34,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-25 03:00:00",
+        "daytime": "Ночь",
+        "temp": 33,
+        "wind": 2,
+        "humidity": 50,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-25 06:00:00",
+        "daytime": "Утро",
+        "temp": 32,
+        "wind": 4,
+        "humidity": 70,
+        "icon": "windy.png",
+        "description": "Ветренно"
+      },
+      {
+        "datetime": "2025-08-25 09:00:00",
+        "daytime": "Утро",
+        "temp": 29,
+        "wind": 0,
+        "humidity": 30,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-25 12:00:00",
+        "daytime": "День",
+        "temp": 36,
+        "wind": 1,
+        "humidity": 50,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-25 15:00:00",
+        "daytime": "День",
+        "temp": 35,
+        "wind": 1,
+        "humidity": 60,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-25 18:00:00",
+        "daytime": "Вечер",
+        "temp": 30,
+        "wind": 1,
+        "humidity": 65,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-25 21:00:00",
+        "daytime": "Вечер",
+        "temp": 26,
+        "wind": 1,
+        "humidity": 30,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      }
+    ],
+    "weekForecast": [
+      {
+        "datetime": "2025-08-25 00:00:00",
+        "daytime": "Ночь",
+        "temp": 33,
+        "wind": 1,
+        "humidity": 50,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-26 00:00:00",
+        "daytime": "Ночь",
+        "temp": 31,
+        "wind": 1,
+        "humidity": 40,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-27 00:00:00",
+        "daytime": "Ночь",
+        "temp": 28,
+        "wind": 1,
+        "humidity": 90,
+        "icon": "rainy.png",
+        "description": "Дождливо"
+      },
+      {
+        "datetime": "2025-08-28 00:00:00",
+        "daytime": "Ночь",
+        "temp": 30,
+        "wind": 4,
+        "humidity": 85,
+        "icon": "windy.png",
+        "description": "Ветренно"
+      },
+      {
+        "datetime": "2025-08-29 00:00:00",
+        "daytime": "Ночь",
+        "temp": 36,
+        "wind": 1,
+        "humidity": 22,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-30 00:00:00",
+        "daytime": "Ночь",
+        "temp": 37,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-31 00:00:00",
+        "daytime": "Ночь",
+        "temp": 33,
+        "wind": 1,
+        "humidity": 22,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Краснодар",
+    "popular": true,
+    "now": {
+      "datetime": "2025-08-25 00:00:00",
+      "daytime": "Ночь",
+      "temp": 38,
+      "wind": 5,
+      "humidity": 10,
+      "icon": "windy.png",
+      "description": "Ветренно"
+    },
+    "dayForecast": [
+      {
+        "datetime": "2025-08-25 00:00:00",
+        "daytime": "Ночь",
+        "temp": 25,
+        "wind": 1,
+        "humidity": 40,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-25 03:00:00",
+        "daytime": "Ночь",
+        "temp": 24,
+        "wind": 1,
+        "humidity": 40,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-25 06:00:00",
+        "daytime": "Утро",
+        "temp": 28,
+        "wind": 3,
+        "humidity": 22,
+        "icon": "windy.png",
+        "description": "Ветренно"
+      },
+      {
+        "datetime": "2025-08-25 09:00:00",
+        "daytime": "Утро",
+        "temp": 32,
+        "wind": 1,
+        "humidity": 30,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-25 12:00:00",
+        "daytime": "День",
+        "temp": 34,
+        "wind": 2,
+        "humidity": 60,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-25 15:00:00",
+        "daytime": "День",
+        "temp": 31,
+        "wind": 1,
+        "humidity": 75,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-25 18:00:00",
+        "daytime": "Вечер",
+        "temp": 32,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-25 21:00:00",
+        "daytime": "Вечер",
+        "temp": 28,
+        "wind": 3,
+        "humidity": 100,
+        "icon": "rainy.png",
+        "description": "Дождливо"
+      }
+    ],
+    "weekForecast": [
+      {
+        "datetime": "2025-08-25 00:00:00",
+        "daytime": "Ночь",
+        "temp": 34,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-26 00:00:00",
+        "daytime": "Ночь",
+        "temp": 34,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "rainy.png",
+        "description": "Дождливо"
+      },
+      {
+        "datetime": "2025-08-27 00:00:00",
+        "daytime": "Ночь",
+        "temp": 34,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-28 00:00:00",
+        "daytime": "Ночь",
+        "temp": 34,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "windy.png",
+        "description": "Ветренно"
+      },
+      {
+        "datetime": "2025-08-29 00:00:00",
+        "daytime": "Ночь",
+        "temp": 34,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-30 00:00:00",
+        "daytime": "Ночь",
+        "temp": 34,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-31 00:00:00",
+        "daytime": "Ночь",
+        "temp": 34,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Уфа",
+    "popular": false,
+    "now": {
+      "datetime": "2025-08-25 00:00:00",
+      "daytime": "Ночь",
+      "temp": 34,
+      "wind": 1,
+      "humidity": 85,
+      "icon": "sunny.png",
+      "description": "Солнечно"
+    },
+    "dayForecast": [
+      {
+        "datetime": "2025-08-25 00:00:00",
+        "daytime": "Ночь",
+        "temp": 25,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-25 03:00:00",
+        "daytime": "Ночь",
+        "temp": 26,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-25 06:00:00",
+        "daytime": "Утро",
+        "temp": 27,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "windy.png",
+        "description": "Ветренно"
+      },
+      {
+        "datetime": "2025-08-25 09:00:00",
+        "daytime": "Утро",
+        "temp": 29,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-25 12:00:00",
+        "daytime": "День",
+        "temp": 27,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "rainy.png",
+        "description": "Дождливо"
+      },
+      {
+        "datetime": "2025-08-25 15:00:00",
+        "daytime": "День",
+        "temp": 21,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "rainy.png",
+        "description": "Дождливо"
+      },
+      {
+        "datetime": "2025-08-25 18:00:00",
+        "daytime": "Вечер",
+        "temp": 26,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-25 21:00:00",
+        "daytime": "Вечер",
+        "temp": 23,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "rainy.png",
+        "description": "Дождливо"
+      }
+    ],
+    "weekForecast": [
+      {
+        "datetime": "2025-08-25 00:00:00",
+        "daytime": "Ночь",
+        "temp": 22,
+        "wind": 1,
+        "humidity": 77,
+        "icon": "rainy.png",
+        "description": "Дождливо"
+      },
+      {
+        "datetime": "2025-08-26 00:00:00",
+        "daytime": "Ночь",
+        "temp": 23,
+        "wind": 1,
+        "humidity": 99,
+        "icon": "rainy.png",
+        "description": "Дождливо"
+      },
+      {
+        "datetime": "2025-08-27 00:00:00",
+        "daytime": "Ночь",
+        "temp": 25,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "rainy.png",
+        "description": "Дождливо"
+      },
+      {
+        "datetime": "2025-08-28 00:00:00",
+        "daytime": "Ночь",
+        "temp": 22,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "rainy.png",
+        "description": "Дождливо"
+      },
+      {
+        "datetime": "2025-08-29 00:00:00",
+        "daytime": "Ночь",
+        "temp": 28,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-30 00:00:00",
+        "daytime": "Ночь",
+        "temp": 30,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-31 00:00:00",
+        "daytime": "Ночь",
+        "temp": 29,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Новосибирск",
+    "popular": true,
+    "now": {
+      "datetime": "2025-08-25 00:00:00",
+      "daytime": "Ночь",
+      "temp": 25,
+      "wind": 1,
+      "humidity": 85,
+      "icon": "sunny.png",
+      "description": "Солнечно"
+    },
+    "dayForecast": [
+      {
+        "datetime": "2025-08-25 00:00:00",
+        "daytime": "Ночь",
+        "temp": 25,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-25 03:00:00",
+        "daytime": "Ночь",
+        "temp": 24,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-25 06:00:00",
+        "daytime": "Утро",
+        "temp": 28,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-25 09:00:00",
+        "daytime": "Утро",
+        "temp": 29,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-25 12:00:00",
+        "daytime": "День",
+        "temp": 32,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-25 15:00:00",
+        "daytime": "День",
+        "temp": 30,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-25 18:00:00",
+        "daytime": "Вечер",
+        "temp": 28,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-25 21:00:00",
+        "daytime": "Вечер",
+        "temp": 24,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      }
+    ],
+    "weekForecast": [
+      {
+        "datetime": "2025-08-25 00:00:00",
+        "daytime": "Ночь",
+        "temp": 25,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-26 00:00:00",
+        "daytime": "Ночь",
+        "temp": 20,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "rainy.png",
+        "description": "Дождливо"
+      },
+      {
+        "datetime": "2025-08-27 00:00:00",
+        "daytime": "Ночь",
+        "temp": 40,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-28 00:00:00",
+        "daytime": "Ночь",
+        "temp": 30,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "windy.png",
+        "description": "Ветренно"
+      },
+      {
+        "datetime": "2025-08-29 00:00:00",
+        "daytime": "Ночь",
+        "temp": 21,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-30 00:00:00",
+        "daytime": "Ночь",
+        "temp": 30,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-31 00:00:00",
+        "daytime": "Ночь",
+        "temp": 31,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Красноярск",
+    "popular": true,
+    "now": {
+      "datetime": "2025-08-25 00:00:00",
+      "daytime": "Ночь",
+      "temp": 25,
+      "wind": 1,
+      "humidity": 85,
+      "icon": "cloudy.png",
+      "description": "Облачно"
+    },
+    "dayForecast": [
+      {
+        "datetime": "2025-08-25 00:00:00",
+        "daytime": "Ночь",
+        "temp": 30,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-25 03:00:00",
+        "daytime": "Ночь",
+        "temp": 31,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-25 06:00:00",
+        "daytime": "Утро",
+        "temp": 32,
+        "wind": 10,
+        "humidity": 85,
+        "icon": "windy.png",
+        "description": "Ветренно"
+      },
+      {
+        "datetime": "2025-08-25 09:00:00",
+        "daytime": "Утро",
+        "temp": 28,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "windy.png",
+        "description": "Ветренно"
+      },
+      {
+        "datetime": "2025-08-25 12:00:00",
+        "daytime": "День",
+        "temp": 29,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-25 15:00:00",
+        "daytime": "День",
+        "temp": 27,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-25 18:00:00",
+        "daytime": "Вечер",
+        "temp": 23,
+        "wind": 1,
+        "humidity": 90,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-25 21:00:00",
+        "daytime": "Вечер",
+        "temp": 43,
+        "wind": 1,
+        "humidity": 20,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      }
+    ],
+    "weekForecast": [
+      {
+        "datetime": "2025-08-25 00:00:00",
+        "daytime": "Ночь",
+        "temp": 22,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-26 00:00:00",
+        "daytime": "Ночь",
+        "temp": 28,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "windy.png",
+        "description": "Ветренно"
+      },
+      {
+        "datetime": "2025-08-27 00:00:00",
+        "daytime": "Ночь",
+        "temp": 25,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-28 00:00:00",
+        "daytime": "Ночь",
+        "temp": 26,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "windy.png",
+        "description": "Ветренно"
+      },
+      {
+        "datetime": "2025-08-29 00:00:00",
+        "daytime": "Ночь",
+        "temp": 29,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "windy.png",
+        "description": "Ветренно"
+      },
+      {
+        "datetime": "2025-08-30 00:00:00",
+        "daytime": "Ночь",
+        "temp": 27,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-31 00:00:00",
+        "daytime": "Ночь",
+        "temp": 30,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Москва",
+    "popular": true,
+    "now": {
+      "datetime": "2025-08-25 00:00:00",
+      "daytime": "Ночь",
+      "temp": 25,
+      "wind": 1,
+      "humidity": 85,
+      "icon": "rainy.png",
+      "description": "Дождливо"
+    },
+    "dayForecast": [
+      {
+        "datetime": "2025-08-25 00:00:00",
+        "daytime": "Ночь",
+        "temp": 22,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-25 03:00:00",
+        "daytime": "Ночь",
+        "temp": 26,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "windy.png",
+        "description": "Ветренно"
+      },
+      {
+        "datetime": "2025-08-25 06:00:00",
+        "daytime": "Утро",
+        "temp": 27,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "windy.png",
+        "description": "Ветренно"
+      },
+      {
+        "datetime": "2025-08-25 09:00:00",
+        "daytime": "Утро",
+        "temp": 26,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-25 12:00:00",
+        "daytime": "День",
+        "temp": 27,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-25 15:00:00",
+        "daytime": "День",
+        "temp": 22,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "rainy.png",
+        "description": "Дождливо"
+      },
+      {
+        "datetime": "2025-08-25 18:00:00",
+        "daytime": "Вечер",
+        "temp": 29,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-25 21:00:00",
+        "daytime": "Вечер",
+        "temp": 28,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      }
+    ],
+    "weekForecast": [
+      {
+        "datetime": "2025-08-25 00:00:00",
+        "daytime": "Ночь",
+        "temp": 25,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-26 00:00:00",
+        "daytime": "Ночь",
+        "temp": 26,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-27 00:00:00",
+        "daytime": "Ночь",
+        "temp": 27,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-28 00:00:00",
+        "daytime": "Ночь",
+        "temp": 22,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "rainy.png",
+        "description": "Дождливо"
+      },
+      {
+        "datetime": "2025-08-29 00:00:00",
+        "daytime": "Ночь",
+        "temp": 26,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "rainy.png",
+        "description": "Дождливо"
+      },
+      {
+        "datetime": "2025-08-30 00:00:00",
+        "daytime": "Ночь",
+        "temp": 29,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "rainy.png",
+        "description": "Дождливо"
+      },
+      {
+        "datetime": "2025-08-31 00:00:00",
+        "daytime": "Ночь",
+        "temp": 24,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "rainy.png",
+        "description": "Дождливо"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Тула",
+    "popular": true,
+    "now": {
+      "datetime": "2025-08-25 00:00:00",
+      "daytime": "Ночь",
+      "temp": 30,
+      "wind": 1,
+      "humidity": 85,
+      "icon": "sunny.png",
+      "description": "Солнечно"
+    },
+    "dayForecast": [
+      {
+        "datetime": "2025-08-25 00:00:00",
+        "daytime": "Ночь",
+        "temp": 25,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-25 03:00:00",
+        "daytime": "Ночь",
+        "temp": 26,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-25 06:00:00",
+        "daytime": "Утро",
+        "temp": 2,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-25 09:00:00",
+        "daytime": "Утро",
+        "temp": 31,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-25 12:00:00",
+        "daytime": "День",
+        "temp": 33,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-25 15:00:00",
+        "daytime": "День",
+        "temp": 34,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-25 18:00:00",
+        "daytime": "Вечер",
+        "temp": 30,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      },
+      {
+        "datetime": "2025-08-25 21:00:00",
+        "daytime": "Вечер",
+        "temp": 34,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "cloudy.png",
+        "description": "Облачно"
+      }
+    ],
+    "weekForecast": [
+      {
+        "datetime": "2025-08-25 00:00:00",
+        "daytime": "Ночь",
+        "temp": 28,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "windy.png",
+        "description": "Ветренно"
+      },
+      {
+        "datetime": "2025-08-26 00:00:00",
+        "daytime": "Ночь",
+        "temp": 30,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-27 00:00:00",
+        "daytime": "Ночь",
+        "temp": 33,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-28 00:00:00",
+        "daytime": "Ночь",
+        "temp": 34,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "windy.png",
+        "description": "Ветренно"
+      },
+      {
+        "datetime": "2025-08-29 00:00:00",
+        "daytime": "Ночь",
+        "temp": 37,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-30 00:00:00",
+        "daytime": "Ночь",
+        "temp": 36,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      },
+      {
+        "datetime": "2025-08-31 00:00:00",
+        "daytime": "Ночь",
+        "temp": 33,
+        "wind": 1,
+        "humidity": 85,
+        "icon": "sunny.png",
+        "description": "Солнечно"
+      }
+    ]
+  }
+]
