@@ -1,0 +1,116 @@
+@import url("@import url('https://fonts.googleapis.com/css2?family=Geologica:wght@100..900&display=swap');");
+
+$text-color: #fff;
+$bg-start: #052652;
+$bg-end: #2d9cdb;
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  font-family: "Geologica", sans-serif;
+  color: $text-color;
+  background: linear-gradient(110deg, $bg-start, $bg-end);
+  background-attachment: fixed;
+}
+
+.container {
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 40px;
+
+  @media screen and (max-width: 768px) {
+    width: 100%;
+    padding: 20px;
+  }
+}
+
+.title {
+  font-size: 36px;
+  font-weight: 800;
+  margin-bottom: 12px;
+}
+
+select {
+  appearance: base-select;
+  -webkit-appearance: base-select;
+  -moz-appearance: base-select;
+  outline: none;
+  padding: 9px 16px 9px 16px;
+  border-radius: 12px;
+  border: 1px solid #ffffff26;
+  background: rgba(255, 255, 255, 0.08);
+  color: #fff;
+  font-weight: 600;
+  font-size: 22px;
+  min-width: 246px;
+  cursor: pointer;
+
+  @media screen and (max-width: 768px) {
+    width: 100%;
+  }
+
+  &::picker-icon {
+    content: url("/images/arrow.png");
+    rotate: -90deg;
+    transition: 0.2s rotate;
+  }
+  &:open::picker-icon {
+    rotate: 0deg;
+  }
+
+  option {
+    display: flex;
+    justify-content: flex-start;
+    gap: 20px;
+    border: none;
+    background: #1a669c;
+    color: #fff;
+    padding: 10px;
+    transition: 0.4s;
+
+    &::checkmark {
+      content: "";
+    }
+    &:hover,
+    &:focus {
+      background: #4380ad;
+    }
+    &:first-of-type {
+      border-radius: 8px 8px 0 0;
+    }
+
+    &:last-of-type {
+      border-radius: 0 0 8px 8px;
+    }
+    &:not(option:last-of-type) {
+      border-bottom: none;
+    }
+  }
+}
+::picker(select) {
+  appearance: base-select;
+  -webkit-appearance: base-select;
+  -moz-appearance: base-select;
+  border: none;
+  top: 12px;
+  background: none;
+}

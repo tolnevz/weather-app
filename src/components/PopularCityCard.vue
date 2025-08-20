@@ -12,7 +12,7 @@
       <img :src="`/images/${props.city.now.icon}`" :alt="props.city.now.description" />
     </div>
     <div class="temp">{{ props.city.now.temp }}°</div>
-    <div class="humidity">Влажность:{{ props.city.now.humidity }}%</div>
+    <div class="humidity">Влажность: {{ props.city.now.humidity }}%</div>
   </div>
 </template>
 
