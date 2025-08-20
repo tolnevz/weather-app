@@ -10,7 +10,7 @@
     <div class="title-with-icon">
       <h2 class="title">Погода в популярных городах</h2>
       <div class="help-icon" title="Помощь">
-        <img src="./images/question-sign.png" alt="Помощь" />
+        <img src="../images/question-sign.png" alt="Помощь" />
       </div>
     </div>
 
