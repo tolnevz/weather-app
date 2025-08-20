@@ -9,7 +9,7 @@
     <div class="name">{{ props.city.name }}</div>
     <div class="description">{{ props.city.now.description }}</div>
     <div class="icon">
-      <img :src="`/dist/images/${props.city.now.icon}`" :alt="props.city.now.description" />
+      <img :src="`/images/${props.city.now.icon}`" :alt="props.city.now.description" />
     </div>
     <div class="temp">{{ props.city.now.temp }}°</div>
     <div class="humidity">Влажность:{{ props.city.now.humidity }}%</div>

@@ -2,6 +2,8 @@
 
 Vue 3 приложение, реализующее прототип прогноза погоды. В качестве данных используются mock-данные из файла.
 
+Демо - [https://helpful-platypus-2aadfc.netlify.app/](https://helpful-platypus-2aadfc.netlify.app/)
+
 ## Запуск проекта
 
 1.  Перейдите в директорию проекта:

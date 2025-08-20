@@ -11,7 +11,7 @@
   <div class="week-forecast-item" v-for="(forecast, index) in props.forecast" :key="index">
     <div class="daytime">{{ getWeekDay(forecast.datetime) }}</div>
     <div class="icon">
-      <img :src="`/dist/images/${forecast.icon}`" :alt="forecast.description" />
+      <img :src="`/images/${forecast.icon}`" :alt="forecast.description" />
     </div>
     <div class="temp">{{ forecast.temp }}°</div>
   </div>

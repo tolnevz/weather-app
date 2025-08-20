@@ -69,7 +69,7 @@ select {
   }
 
   &::picker-icon {
-    content: url("/dist/images/arrow.png");
+    content: url("/images/arrow.png");
     rotate: -90deg;
     transition: 0.2s rotate;
   }

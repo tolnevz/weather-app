@@ -10,7 +10,7 @@
 <template>
   <div class="now">
     <div class="icon">
-      <img :src="`/dist/images/${props.city.now.icon}`" :alt="props.city.now.description" />
+      <img :src="`/images/${props.city.now.icon}`" :alt="props.city.now.description" />
     </div>
     <div class="temp">
       <span>{{ props.city.now.temp }}°</span>
@@ -32,7 +32,7 @@
         </td>
         <td class="temp">{{ forecast.temp }}°</td>
         <td class="icon">
-          <img :src="`/dist/images/${forecast.icon}`" :alt="forecast.description" />
+          <img :src="`/images/${forecast.icon}`" :alt="forecast.description" />
           <span class="description">{{ forecast.description }}</span>
         </td>
         <td class="wind">{{ forecast.wind }} м/с</td>
